@@ -46,6 +46,7 @@ namespace Convocados.API.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            //probando githubaction
         }
     }
 
